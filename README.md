@@ -1,6 +1,6 @@
 # GsIMC_victor_e_diogo
 
-Este é um aplicativo Android desenvolvido 100% com Jetpack Compose como exercício didático. O app implementa uma navegação completa entre telas de Login, Menu, IMC e Equipe.
+Este é um aplicativo Android desenvolvido 100% com Jetpack Compose.
 
 ---
 
@@ -41,3 +41,4 @@ Tela Equipe
 
 - Nome 1: Victor Espanhol Henrique Santos RM 552532
 - Nome 2: Diogo Makoto Mano RM 98446
+
