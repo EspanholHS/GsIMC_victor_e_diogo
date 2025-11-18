@@ -5,7 +5,9 @@ Este é um aplicativo Android desenvolvido 100% com Jetpack Compose.
 ---
 
 ## Telas do Projeto
+Tela Login cmo Usuario errado
 
+<img width="322" height="614" alt="image" src="https://github.com/user-attachments/assets/3c5eb024-c392-4a92-8457-7065033e8001" />
 
 Tela Login
 
@@ -41,4 +43,5 @@ Tela Equipe
 
 - Nome 1: Victor Espanhol Henrique Santos RM 552532
 - Nome 2: Diogo Makoto Mano RM 98446
+
 
